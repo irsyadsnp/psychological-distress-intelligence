@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this project in academic work, please cite the repository."
+title: "Psychological Distress Intelligence"
+type: software
+version: 0.1.0
+repository-code: "https://github.com/irsyadsnp/psychological-distress-intelligence"
