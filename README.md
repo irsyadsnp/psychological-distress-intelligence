@@ -43,7 +43,7 @@ CITATION.cff         Software citation metadata
 
 ## Research protocol
 
-See [docs/RESEARCH_PROTOCOL.md](docs/RESEARCH_PROTOCOL.md) for the current protocol and staged workflow.
+See [docs/RESEARCH_PROTOCOL.md](docs/RESEARCH_PROTOCOL.md) for the research protocol and [docs/DATASET_SCREENING.md](docs/DATASET_SCREENING.md) for the candidate dataset assessment.
 
 ## Reproducibility and data policy
 
